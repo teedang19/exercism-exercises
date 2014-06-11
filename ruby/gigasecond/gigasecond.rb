@@ -5,7 +5,7 @@ class Gigasecond
   end
 
   def date
-    @birthday + (11574)
+    @birthday + 11574
   end
 
 end
